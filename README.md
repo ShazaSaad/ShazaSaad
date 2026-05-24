@@ -4,18 +4,6 @@
 <p align="center">
   <img src="banner.png" alt="Shaza Banner" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaza%20Saad&fontSize=70&fontColor=fff&fontAlignY=55&animation=twinkling&desc=AI%20%26%20Data%20Science%20Graduate&descAlignY=75&descSize=20&descColor=ffb6c1" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- 🌸 ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3000&pause=1000&color=E8739A&center=true&vCenter=true&multiline=false&width=600&height=60&lines=✨+AI+%26+Data+Science+Graduate+✨;🤖+Machine+Learning+%7C+NLP+%7C+Optimization;🌸+Building+Intelligent+Real-World+Systems;💡+Turning+Data+into+Meaningful+Decisions" alt="Typing SVG" />
-
 </div>
 
 <br/>
