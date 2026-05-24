@@ -156,10 +156,9 @@ An AI-powered financial intelligence platform combining **market signals + ESG e
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazasaad&theme=rose_pine" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazasaad&theme=rose_pine" />
+<img src="./github-stats/stats.svg" width="49%" />
 
+<img src="./github-stats/langs.svg" width="42%" />
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ShazaSaad&theme=rose-pine&hide_border=true&background=FFF0F5&ring=E8739A&fire=c9649a&currStreakLabel=E8739A&sideLabels=c9649a&dates=888" />
