@@ -1,6 +1,10 @@
 <div align="center">
 
 <!-- ✨ ANIMATED HEADER BANNER ✨ -->
+<p align="center">
+  <img src="banner.png" alt="Shaza Banner" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaza%20Saad&fontSize=70&fontColor=fff&fontAlignY=55&animation=twinkling&desc=AI%20%26%20Data%20Science%20Graduate&descAlignY=75&descSize=20&descColor=ffb6c1" width="100%" />
 
 </div>
