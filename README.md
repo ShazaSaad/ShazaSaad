@@ -144,16 +144,18 @@ Python • Scikit-learn • NLP • Pandas • FastAPI
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazasaad&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazasaad&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazasaad&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazasaad&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazasaad&theme=rose_pine" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShazaSaad&theme=rose-pine&hide_border=true" />
 </p>
+
 
 ---
 
