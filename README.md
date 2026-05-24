@@ -174,7 +174,7 @@ An AI-powered financial intelligence platform combining **market signals + ESG e
 
 ```mermaid
 mindmap
-  root((🌸 Shaza))
+  root((Shaza))
     AI + ESG
       Financial Intelligence
       Ethical AI Systems
