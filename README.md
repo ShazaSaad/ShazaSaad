@@ -1,191 +1,227 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-# 🌸 Hi, I'm Shaza
+<!-- ✨ ANIMATED HEADER BANNER ✨ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaza%20Saad&fontSize=70&fontColor=fff&fontAlignY=55&animation=twinkling&desc=AI%20%26%20Data%20Science%20Graduate&descAlignY=75&descSize=20&descColor=ffb6c1" width="100%" />
 
-<p align="center">
-  <img src="banner.png" alt="Shaza Banner" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+graduate;Machine+Learning+%7C+NLP+%7C+Optimization;Building+Intelligent+Real-World+Systems&center=true&width=520&height=50&color=ffb6c1&vCenter=true&size=20">
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://my-portfolio-shaza-saad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaza-saad-7549b62a0">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shazalugman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<!-- 🌸 ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3000&pause=1000&color=E8739A&center=true&vCenter=true&multiline=false&width=600&height=60&lines=✨+AI+%26+Data+Science+Graduate+✨;🤖+Machine+Learning+%7C+NLP+%7C+Optimization;🌸+Building+Intelligent+Real-World+Systems;💡+Turning+Data+into+Meaningful+Decisions" alt="Typing SVG" />
 
-<!-- ================= ABOUT ================= -->
+</div>
 
-## 🧠 About Me
+<br/>
 
-🎓 I’m a **Data Science & Artificial Intelligence graduate** focused on building intelligent, data-driven systems that move from **idea → model → deployment**.
+<div align="center">
 
-💡 My interests sit at the intersection of:
-- 🤖 Machine Learning & Predictive Modeling  
-- 🧠 Natural Language Processing (NLP)  
-- 📊 Data Science & Statistical Analysis  
-- ⚙️ Optimization & Intelligent Systems Design  
+<!-- 🎀 SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-Visit_Now-E8739A?style=for-the-badge&logoColor=white)](https://my-portfolio-shaza-saad.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-c9649a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaza-saad-7549b62a0)
+[![Email](https://img.shields.io/badge/💌_Email-Say_Hi-f4a7c0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shazalugman@gmail.com)
 
-🚀 I enjoy turning raw data into structured insight, and structured insight into working systems.
+</div>
+
+<br/>
 
 ---
 
-<!-- ================= CURRENT WORK ================= -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
+
+---
+
+## 🌸 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" />
+
+> *"Turning data into decisions, and models into meaningful systems."*
+
+🎓 I'm a **Data Science & AI graduate** passionate about building intelligent, data-driven systems that go from **idea → model → deployment**.
+
+💡 My world revolves around:
+- 🤖 **Machine Learning** & Predictive Modeling
+- 🧠 **Natural Language Processing** (NLP)
+- 📊 **Data Science** & Statistical Analysis
+- ⚙️ **Optimization** & Intelligent Systems Design
+
+🚀 I love turning raw, messy data into structured insight — and structured insight into working systems that make a difference.
+
+<br clear="right"/>
+
+---
 
 ## 🚀 Currently Building
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Developing-ffb6c1?style=for-the-badge"/>
-</p>
+<div align="center">
 
-- 🧠 **StoCast** → ESG-aware stock forecasting system using NLP + time-series modeling  
-- 📊 ML pipelines for classification, regression & real-world datasets  
-- ⚙️ Exploring scalable AI systems + optimization techniques  
+| 🌟 Project | 📌 Description | 🔧 Stack |
+|:---:|:---|:---|
+| **🧠 StoCast** | ESG-aware stock forecasting with NLP + time-series | Python · Scikit-learn · FastAPI |
+| **📊 ML Pipelines** | Classification, regression & real-world datasets | Pandas · NumPy · PyTorch |
+| **⚙️ AI Systems** | Scalable intelligent systems + optimization | Docker · AWS · Celery |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+</div>
 
 ---
 
-<!-- ================= SKILLS ================= -->
+## 🌟 Featured Project — StoCast
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║          🧠  S t o C a s t  —  AI Stock Forecasting      ║
+║    Market Data · ESG Signals · NLP Sentiment Analysis    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+An AI-powered financial intelligence platform combining **market signals + ESG ethics + NLP sentiment**.
+
+<table>
+<tr>
+<td>
+
+**✨ Key Features**
+- 📈 Time-series stock forecasting
+- 🧠 NLP sentiment on financial news  
+- 🌍 ESG insights for ethical investments
+- ⚙️ Modular, scalable ML pipeline
+
+</td>
+<td>
+
+**🛠️ Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-f9c7d6?style=flat-square&logo=python&logoColor=c9649a)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f9c7d6?style=flat-square&logo=scikit-learn&logoColor=c9649a)
+![FastAPI](https://img.shields.io/badge/FastAPI-f9c7d6?style=flat-square&logo=fastapi&logoColor=c9649a)
+![Pandas](https://img.shields.io/badge/Pandas-f9c7d6?style=flat-square&logo=pandas&logoColor=c9649a)
+![NLP](https://img.shields.io/badge/NLP-f9c7d6?style=flat-square&logo=openai&logoColor=c9649a)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🧰 Technical Stack
 
-### 🧠 Core Expertise
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>
-- Machine Learning (Regression, Classification, NLP basics)  
-- Data Analysis & Visualization  
-- SQL (MySQL, SQL Server)
+<div align="center">
 
----
+### 🧠 Core Languages
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=light" />
 
 ### 🛠️ Frameworks & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi&theme=light" />
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,docker" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=aws,azure,git,docker&theme=light" />
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 
 ### 📊 Data & AI Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" />
 
-- Pandas, NumPy, Scikit-learn  
-- NLP (sentiment analysis, text processing)  
-- Feature engineering & ML pipelines  
+</div>
 
----
+<br/>
 
-### 📈 Analytics & BI
-<p>
-  <img src="https://img.shields.io/badge/Tableau-ffb6c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-ffb6c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-ffb6c1?style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+**Analytics & BI**
 
-### 🌐 Other Skills
-- Web Scraping  
-- Data Cleaning & Transformation  
-- Prompt Engineering  
+![Tableau](https://img.shields.io/badge/Tableau-f4a7c0?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-E8739A?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-c9649a?style=for-the-badge&logoColor=white)
+
+**Other Skills**
+
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-fce4ec?style=flat-square&color=E8739A)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-fce4ec?style=flat-square&color=c9649a)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-fce4ec?style=flat-square&color=f4a7c0)
+
+</div>
 
 ---
-
-<!-- ================= PROJECT ================= -->
-
-## 🌟 Featured Project
-
-### 🧠 StoCast — AI Stock Forecasting System
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-StoCast-ffb6c1?style=for-the-badge"/>
-</p>
-
-An AI-powered financial intelligence system combining **market data + ESG signals + NLP sentiment analysis**.
-
-#### ✨ Key Features
-- 📈 Time-series forecasting for stock prediction  
-- 🧠 NLP sentiment analysis on financial news  
-- 🌍 ESG-aware scoring layer for ethical investment signals  
-- ⚙️ Modular ML pipeline for scalable experimentation  
-
-#### 🛠️ Tech Stack
-Python • Scikit-learn • NLP • Pandas • FastAPI
-
----
-
-<!-- ================= STATS ================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazasaad&theme=rose_pine" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazasaad&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazasaad&theme=rose_pine" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazasaad&theme=rose_pine" width="100%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShazaSaad&theme=rose-pine&hide_border=true" />
-</p>
+<br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazasaad&theme=rose_pine" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazasaad&theme=rose_pine" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ShazaSaad&theme=rose-pine&hide_border=true&background=FFF0F5&ring=E8739A&fire=c9649a&currStreakLabel=E8739A&sideLabels=c9649a&dates=888" />
+
+</div>
 
 ---
-
-<!-- ================= ROADMAP ================= -->
 
 ## 🌱 Currently Exploring
 
-- 🔍 AI + ESG integration in financial systems  
-- ⚡ Parallel & Distributed Computing (MPI, Celery concepts)  
-- 🧠 Advanced Machine Learning Optimization  
-- 📊 Scalable data pipelines for AI systems  
+<div align="center">
+
+```mermaid
+mindmap
+  root((🌸 Shaza))
+    AI + ESG
+      Financial Intelligence
+      Ethical AI Systems
+    Distributed Computing
+      MPI Concepts
+      Celery & Task Queues
+    Advanced ML
+      Optimization Techniques
+      Model Fine-tuning
+    Scalable Pipelines
+      Big Data
+      Real-time Inference
+```
+
+</div>
 
 ---
-
-<!-- ================= PHILOSOPHY ================= -->
 
 ## 💬 Philosophy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thinking-Data%20Driven-ffb6c1?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-  “Turning data into decisions, and models into meaningful systems.”
-</p>
+<br/>
+
+> 🌸 *"Turning data into decisions, and models into meaningful systems."*
+
+<br/>
+
+*I believe in building AI that's not only intelligent — but ethical, interpretable, and impactful.*
+
+<br/>
+
+</div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- 🌸 ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
+</div>
