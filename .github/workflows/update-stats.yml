@@ -1,0 +1,55 @@
+name: 🌸 Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 📊 Generate Stats Card
+        uses: anuraghazra/github-readme-stats@latest
+        id: stats
+        with:
+          username: shazasaad
+          count_private: true
+          show_icons: true
+          hide_border: true
+          bg_color: FFF0F5
+          title_color: E8739A
+          icon_color: c9649a
+          text_color: 888888
+          ring_color: E8739A
+          output_file: github-stats/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 💅 Generate Top Languages Card
+        uses: anuraghazra/github-readme-stats@latest
+        id: langs
+        with:
+          username: shazasaad
+          layout: compact
+          hide_border: true
+          bg_color: FFF0F5
+          title_color: E8739A
+          text_color: 888888
+          output_file: github-stats/langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 💾 Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p github-stats
+          git add github-stats/stats.svg github-stats/langs.svg
+          git diff --cached --quiet || git commit -m "🌸 chore: update stats cards"
+          git push
