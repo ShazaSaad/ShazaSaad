@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Warm ivory and dusty rose abstract glass-orbit banner" width="100%" />
+<img src="banner.jpg" alt="Shaza Saad — AI Engineer and Data Scientist" width="100%" />
 
-### AI Engineer · Data Scientist · Doha, Qatar
+<p><strong>AI Engineer · Data Scientist · Doha, Qatar</strong></p>
 
-[Portfolio](https://my-portfolio-shaza-saad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shaza-saad-7549b62a0) · [Email](mailto:shazalugman@gmail.com) · [CV](https://my-portfolio-shaza-saad.vercel.app/Shaza-Saad-CV.pdf)
+<a href="https://my-portfolio-shaza-saad.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/shaza-saad-7549b62a0">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:shazalugman@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://my-portfolio-shaza-saad.vercel.app/Shaza-Saad-CV.pdf">CV</a>
 
 </div>
 
@@ -54,10 +57,21 @@ Created 200+ branded AI-assisted assets across five campaigns, helping reduce co
 
 ## Toolkit
 
-**AI & data:** Python, machine learning, NLP, vision-language models, feature engineering, exploratory analysis, geospatial analysis, model evaluation  
-**Applied AI:** Prompt engineering, computer vision, optimization (ACO, genetic algorithms), multi-criteria scoring  
-**Development:** REST APIs, Node.js, MongoDB, SQL, Git  
-**Cloud & analytics:** Google Cloud, BigQuery, Vertex AI, Power BI
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,nodejs,mongodb,mysql,git,gcp&theme=light" alt="Python, TensorFlow, scikit-learn, FastAPI, Node.js, MongoDB, MySQL, Git, and Google Cloud" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+<img src="https://img.shields.io/badge/Vertex_AI-8E75B2?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=333333" alt="Power BI" />
+<img src="https://img.shields.io/badge/Geospatial_Analysis-C77D7D?style=flat-square" alt="Geospatial analysis" />
+<img src="https://img.shields.io/badge/NLP-C77D7D?style=flat-square" alt="Natural language processing" />
+<img src="https://img.shields.io/badge/Vision--Language_Models-C77D7D?style=flat-square" alt="Vision-language models" />
+<img src="https://img.shields.io/badge/Optimization-C77D7D?style=flat-square" alt="Optimization" />
+
+</div>
 
 ## Connect
 
