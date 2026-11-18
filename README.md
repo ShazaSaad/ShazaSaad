@@ -1,212 +1,72 @@
 <div align="center">
 
-<!-- ✨ ANIMATED HEADER BANNER ✨ -->
-<p align="center">
-  <img src="banner.png" alt="Shaza Banner" />
-</p>
-</div>
+<img src="banner.jpg" alt="Warm ivory and dusty rose abstract glass-orbit banner" width="100%" />
 
-<br/>
+### AI Engineer · Data Scientist · Doha, Qatar
 
-<div align="center">
-
-<!-- 🎀 SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-Visit_Now-E8739A?style=for-the-badge&logoColor=white)](https://my-portfolio-shaza-saad.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-c9649a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaza-saad-7549b62a0)
-[![Email](https://img.shields.io/badge/💌_Email-Say_Hi-f4a7c0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shazalugman@gmail.com)
-
-</div>
-
-<div align="center">
-<br/>
-
-<img align="center" src= "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250">
-
-<br/>
-</div>
-
-## 🌸 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" />
-
-> *"Turning data into decisions, and models into meaningful systems."*
-
-🎓 I'm a **Data Science & AI graduate** passionate about building intelligent, data-driven systems that go from **idea → model → deployment**.
-
-💡 My world revolves around:
-- 🤖 **Machine Learning** & Predictive Modeling
-- 🧠 **Natural Language Processing** (NLP)
-- 📊 **Data Science** & Statistical Analysis
-- ⚙️ **Optimization** & Intelligent Systems Design
-
-🚀 I love turning raw, messy data into structured insight — and structured insight into working systems that make a difference.
-
-<br clear="right"/>
-
----
-
-## 🚀 Currently Building
-
-<div align="center">
-
-| 🌟 Project | 📌 Description | 🔧 Stack |
-|:---:|:---|:---|
-| **🧠 StoCast** | ESG-aware stock forecasting with NLP + time-series | Python · Scikit-learn · FastAPI |
-| **📊 ML Pipelines** | Classification, regression & real-world datasets | Pandas · NumPy · PyTorch |
-| **⚙️ AI Systems** | Scalable intelligent systems + optimization | Docker · AWS · Celery |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
-</div>
-
----
-
-## 🌟 Featured Project — StoCast
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║          🧠  S t o C a s t  —  AI Stock Forecasting      ║
-║    Market Data · ESG Signals · NLP Sentiment Analysis    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-An AI-powered financial intelligence platform combining **market signals + ESG ethics + NLP sentiment**.
-
-<table>
-<tr>
-<td>
-
-**✨ Key Features**
-- 📈 Time-series stock forecasting
-- 🧠 NLP sentiment on financial news  
-- 🌍 ESG insights for ethical investments
-- ⚙️ Modular, scalable ML pipeline
-
-</td>
-<td>
-
-**🛠️ Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-f9c7d6?style=flat-square&logo=python&logoColor=c9649a)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f9c7d6?style=flat-square&logo=scikit-learn&logoColor=c9649a)
-![FastAPI](https://img.shields.io/badge/FastAPI-f9c7d6?style=flat-square&logo=fastapi&logoColor=c9649a)
-![Pandas](https://img.shields.io/badge/Pandas-f9c7d6?style=flat-square&logo=pandas&logoColor=c9649a)
-![NLP](https://img.shields.io/badge/NLP-f9c7d6?style=flat-square&logo=openai&logoColor=c9649a)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Technical Stack
-
-<div align="center">
-
-### 🧠 Core Languages
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=light" />
-
-### 🛠️ Frameworks & Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi&theme=light" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,git,docker&theme=light" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
-
-### 📊 Data & AI Stack
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Analytics & BI**
-
-![Tableau](https://img.shields.io/badge/Tableau-f4a7c0?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-E8739A?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-c9649a?style=for-the-badge&logoColor=white)
-
-**Other Skills**
-
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-fce4ec?style=flat-square&color=E8739A)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-fce4ec?style=flat-square&color=c9649a)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-fce4ec?style=flat-square&color=f4a7c0)
+[Portfolio](https://my-portfolio-shaza-saad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shaza-saad-7549b62a0) · [Email](mailto:shazalugman@gmail.com) · [CV](https://my-portfolio-shaza-saad.vercel.app/Shaza-Saad-CV.pdf)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## About
 
-<div align="center">
+I’m a Data Science & AI graduate who enjoys turning complex data into useful, human-centered systems. My work spans machine learning, geospatial intelligence, computer vision, and creative AI—balancing careful evaluation with thoughtful product design.
 
-<img src="https://stats-psi-mocha.vercel.app/api?username=shazasaad&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=E8739A&icon_color=c9649a&text_color=888888&ring_color=E8739A&count_private=true" width="49%" />
+Currently, I’m an **AI Engineer Intern at Hash / QSTP**, building venue intelligence workflows that combine geospatial data, structured venue information, and vision-language models.
 
-<img src="https://stats-psi-mocha.vercel.app/api/top-langs/?username=shazasaad&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=E8739A&text_color=888888&langs_count=6" width="42%" />
-<br/><br/>
+## Selected impact
 
-<img src="https://streak-stats.demolab.com?user=ShazaSaad&theme=rose-pine&hide_border=true&background=FFF0F5&ring=E8739A&fire=c9649a&currStreakLabel=E8739A&sideLabels=c9649a&dates=888" />
+| **200+** | **30–40%** | **50+** | **2–3×** |
+|:--:|:--:|:--:|:--:|
+| AI-generated campaign assets delivered at PHCC | Faster content production | Standardized assets in a reusable visual library | Faster creation of new visuals using a prompt framework |
 
-</div>
+## Featured work
+
+### [StoCast](https://www.canva.com/design/DAHGXM5q6cQ/ivo3kt0FVz3ky6erYSdSXw/view)
+ESG-aware stock forecasting concept combining market signals, time-series modeling, and sustainability context. In an expanding-window backtest for PG over 2026, Prophet achieved **MAE 7.53** and **RMSE 9.48**. This is a single-ticker experiment, not evidence of broad market performance.
+
+### [Indoor Localization](https://www.canva.com/design/DAGj7kso5VM/vilYmOF6D7aTxRaDHOFD6A/view)
+Wi-Fi fingerprinting for indoor positioning. A Random Forest model reached **99.91% building accuracy** and **91% floor accuracy** using 520 access-point features; most remaining errors were between adjacent floors.
+
+### [Fleet Optimization](https://github.com/ShazaSaad/shaza_DSAI3202/tree/assignment1_part2)
+Parallel fleet-routing optimization experiments. The repository reports speedups of **1.67× on 32 nodes** and **1.13× on 100 nodes** with six processes; treat these as repository-reported results because a reproducible MPI implementation and full benchmark artifact are not available in the checked branch.
+
+### [ML Emotion Recognition](https://github.com/ShazaSaad/ML-Emotion-Recognition)
+Facial emotion classification on FER2013. The baseline reports **58% accuracy** and **0.57 weighted F1** on the 7,178-image test set; FER+ retraining results are still pending.
+
+### [Media Management System](https://github.com/ShazaSaad/infs3201_fall2025_project)
+A database-backed media management application focused on organizing and managing media records.
+
+## Experience
+
+**AI Engineer Intern · Hash / QSTP**  
+*September 2026 – Present*  
+Building modular venue intelligence pipelines using Python, Google Places, geospatial data, and Qwen3-VL. Work includes extracting evidence from venue imagery, evaluating accessibility and navigation signals, multi-criteria scoring, API integrations, caching, and automated tests.
+
+**AI e-Learning Trainee · Primary Health Care Corporation (PHCC)**  
+*April 2026 – July 2026*  
+Created 200+ branded AI-assisted assets across five campaigns, helping reduce content production time by 30–40% and manual design effort by about 35%. Established a 50+ asset visual library and a reusable prompt framework.
+
+**Education · BSc Data Science & Artificial Intelligence · University of Doha for Science and Technology**  
+*August 2022 – July 2026* · **1st Place, UDST UHUB Entrepreneurship Award 2026**
+
+## Toolkit
+
+**AI & data:** Python, machine learning, NLP, vision-language models, feature engineering, exploratory analysis, geospatial analysis, model evaluation  
+**Applied AI:** Prompt engineering, computer vision, optimization (ACO, genetic algorithms), multi-criteria scoring  
+**Development:** REST APIs, Node.js, MongoDB, SQL, Git  
+**Cloud & analytics:** Google Cloud, BigQuery, Vertex AI, Power BI
+
+## Connect
+
+I’m interested in applied AI and data science work where technical rigor meets practical value.
+
+[Portfolio](https://my-portfolio-shaza-saad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shaza-saad-7549b62a0) · [shazalugman@gmail.com](mailto:shazalugman@gmail.com)
 
 ---
 
-## 🌱 Currently Exploring
-
 <div align="center">
-
-```mermaid
-mindmap
-  root((Shaza))
-    AI + ESG
-      Financial Intelligence
-      Ethical AI Systems
-    Distributed Computing
-      MPI Concepts
-      Celery & Task Queues
-    Advanced ML
-      Optimization Techniques
-      Model Fine-tuning
-    Scalable Pipelines
-      Big Data
-      Real-time Inference
-```
-
-</div>
-
----
-
-## 💬 Philosophy
-
-<div align="center">
-
-<br/>
-
-> 🌸 *"Turning data into decisions, and models into meaningful systems."*
-
-<br/>
-
-*I believe in building AI that's not only intelligent — but ethical, interpretable, and impactful.*
-
-<br/>
-
-</div>
-
----
-
-<!-- 🌸 ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&animation=twinkling" width="100%" />
-
+<sub>Thoughtful systems. Clear evidence. Human impact.</sub>
 </div>
